@@ -84,9 +84,8 @@ Before installation, configure these settings in BIOS:
 4. Disable TPM Security
 5. Set DVMT Pre-allocated to 64MB
 6. Disable Fast Boot
-7. Enable USB Legacy Support
-8. Set Boot Mode to UEFI
-9. Disable Intel SGX
+7. Set Boot Mode to UEFI
+8. Disable Intel SGX
 
 ### Installation
 
