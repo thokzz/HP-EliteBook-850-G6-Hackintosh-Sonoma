@@ -40,8 +40,8 @@ This repository contains the necessary EFI files and instructions to install and
 ✅ iCloud, Xcode, Appstore
 
 ## Not working
-Built in Mic Not working
 Facetime and imessage only working in Monterey
+Built in Mic Not working
 
 ## macOS Compatibility
 
