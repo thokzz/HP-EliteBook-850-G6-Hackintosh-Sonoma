@@ -36,7 +36,12 @@ This repository contains the necessary EFI files and instructions to install and
 ✅ Brightness control (with hotkeys)  
 ✅ Ethernet  
 ✅ NVMe storage  
-✅ Integrated webcam  
+✅ Integrated webcam 
+✅ iCloud, Xcode, Appstore
+
+## Not working
+Built in Mic Not working
+Facetime and imessage only working in Monterey
 
 ## macOS Compatibility
 
