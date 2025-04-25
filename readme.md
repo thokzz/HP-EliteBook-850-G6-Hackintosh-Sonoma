@@ -1,6 +1,8 @@
 # HP EliteBook 850 G6 Hackintosh
 
-![HP EliteBook 850 G6](https://placeholder-for-elitebook-image.jpg)
+![System Information](https://github.com/thokzz/HP-EliteBook-850-G6-Hackintosh-Sonoma/blob/main/asset/Screenshot.png)
+
+![Desktop Environment](https://github.com/thokzz/HP-EliteBook-850-G6-Hackintosh-Sonoma/blob/main/asset/Screenshot2.png)
 
 This repository contains the necessary EFI files and instructions to install and run macOS on the HP EliteBook 850 G6 with an Intel i7 8th Generation processor.
 
