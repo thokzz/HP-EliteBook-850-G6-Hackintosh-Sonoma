@@ -183,9 +183,6 @@ Audio is working through AppleALC with:
 - [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
 - The entire Hackintosh community for documentation and support
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Warning
 
